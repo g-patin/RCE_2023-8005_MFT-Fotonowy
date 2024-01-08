@@ -1,0 +1,5 @@
+.debris/
+*.pyc
+.venv/
+docs/MFT_on_Linux.zip
+docs/fedometr-devel-15ed2a6d.zip
