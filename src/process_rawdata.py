@@ -35,6 +35,27 @@ d65 = colour.CCS_ILLUMINANTS["cie_10_1964"]["D65"]
 
 
 def MFT_Fotonowy(files:list, info_analysis:Optional[bool] = False, save:Optional[bool] = False, return_data: Optional[bool] = False):
+    """Process the microfading rawdata obtained with a microfading device from Fotonowy
+
+    Parameters
+    ----------
+    files : list
+        A list of files containing rawdata
+
+    info_analysis : Optional[bool], optional
+        Whether to include information about the measurements, by default False
+
+    save : Optional[bool], optional
+        Whether to save the data as a txt file, by default False
+
+    return_data : Optional[bool], optional
+        Whether to return the data, by default False
+
+    Returns
+    -------
+    _type_
+        For each file in the list of files, it returns a tuple of two Pandas dataframes, where the first dataframe contains the reflectance spectra and the second dataframe contains the colorimetric data.
+    """
 
     raw_files_sp = [file for file in files if 'spect_convert.txt' in file]
     
