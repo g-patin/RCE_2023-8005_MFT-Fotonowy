@@ -1,0 +1,14 @@
+Het apparaat kan worden gebruikt met een Windows en Linux besturingssysteem. Aangezien beide systemen in ons lab worden gebruikt, was het belangrijk voor ons dat collega's het apparaat kunnen gebruiken ongeacht het besturingssysteem dat ze gebruiken.
+
+De software is gratis, er is dus geen limiet wat betreft het aantal installaties op verschillende computers. Bovendien is een toekomstige upgrade van de software ook inbegrepen. De interface van de software is gebruiksvriendelijk en stelt ons in staat om de parameters van het apparaat (lichtintensiteit, kleurmetingen, timing, enz.) nauwkeurig te regelen. Bovendien worden de resultaten live weergegeven en kan men zelfs een drempel instellen waarboven de analyses automatisch stoppen.   
+
+Het systeem is klein en licht van gewicht (5 kg). Eén persoon kan het gemakkelijk dragen. 
+
+Een kalibratiesysteem voor de lichtbron kan apart worden aangeschaft. De kalibratie maakt het mogelijk om de hoeveelheid energie die tijdens de analyse wordt gebruikt nauwkeurig te bepalen, wat een belangrijke parameter is om te weten. En vervolgens kunnen we ook zien of de lampen nog goed werken, zodat we, als we een probleem met de lampen constateren - we verwachten een levensduur van minimaal 5 jaar, afhankelijk van het gebruik - een nieuwe LED-lamp kunnen bestellen.  
+
+Het apparaat heeft een uitschuifbare arm en kan op een extern statief worden geschroefd. Ten eerste betekent dit dat je grote objecten kunt meten. En ten tweede kunnen metingen ook verticaal worden uitgevoerd, voor het geval het object niet plat kan liggen of niet van de muur kan worden gehaald.
+
+Het systeem heeft 6 verschillende LED's, variërend van koud wit tot warm wit, die eenvoudig gedimd kunnen worden door de stroomsterkte te variëren. Over het algemeen is er een goede controle over de parameters van de analyses. 
+
+Er zijn verschillende tests uitgevoerd op monsters van papier en textiel, wat heeft aangetoond dat het apparaat de lichtgevoeligheid van de monsters kan beoordelen. 
+
