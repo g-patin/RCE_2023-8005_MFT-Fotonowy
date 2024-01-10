@@ -4,3 +4,4 @@
 docs/MFT_on_Linux.zip
 docs/fedometr-devel-15ed2a6d.zip
 __pycache__/
+src/__pycache__/
