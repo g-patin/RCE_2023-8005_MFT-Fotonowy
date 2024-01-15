@@ -1,5 +1,5 @@
 # Date: Thu Nov 9 15:14:09 2023
-# Object: noProject-BWS0001
+# Object: noProject-BWS0001-BW1
 # Illuminant: D65
 # Sample integration time [ms]: 50
 # White standard integration time [ms]: 50
