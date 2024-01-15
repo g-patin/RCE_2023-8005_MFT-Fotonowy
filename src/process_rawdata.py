@@ -27,14 +27,13 @@ illuminant1 = 'D65'
 observer2 = '2deg'
 illuminant2 = 'D50'
 
-style = {"description_width": "initial"}
 d65 = colour.CCS_ILLUMINANTS["cie_10_1964"]["D65"]
 
 
 ####### FUNCTIONS #######
 
 
-def MFT_Fotonowy(files:list, info_analysis:Optional[bool] = False, save:Optional[bool] = False, return_data: Optional[bool] = False):
+def MFT_Fotonowy(files:list, info_analysis:Optional[bool] = False, return_data: Optional[bool] = False, save:Optional[bool] = False):
     """Process the microfading rawdata obtained with a microfading device from Fotonowy
 
     Parameters
@@ -43,13 +42,13 @@ def MFT_Fotonowy(files:list, info_analysis:Optional[bool] = False, save:Optional
         A list of files containing rawdata
 
     info_analysis : Optional[bool], optional
-        Whether to include information about the measurements, by default False
-
-    save : Optional[bool], optional
-        Whether to save the data as a txt file, by default False
+        Whether to include information about the measurements, by default False    
 
     return_data : Optional[bool], optional
         Whether to return the data, by default False
+
+    save : Optional[bool], optional
+        Whether to save the data as a txt file, by default False
 
     Returns
     -------
