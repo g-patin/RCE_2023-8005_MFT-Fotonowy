@@ -1,0 +1,72 @@
+parameter,value
+[SINGLE RADIANT POWER MEASUREMENT], 
+author,Gauthier Patin
+date_time,2024-01-17 10:31:27
+[PROJECT], 
+project_Id,2023-8005
+PL,Frank Ligterink
+ML,Gauthier Patin
+aanvraagdatum,2023-09-01
+uiterste_datum,2024-02-01
+comments,
+[LAMP DATA], 
+lamp,LED01_Fotonowy MFT white 2700K
+option,Fotonowy-MFT_700mA
+zoom,none
+iris,none
+lamp_fiber,none
+lamp_filter,noFilter_noFilter
+distance_mm,0.0
+[DEVICE DATA], 
+device,LM01_PM100USB_Thorlabs
+sensor_type,S405C_Thorlabs thermopile-based sensor
+sensor_area_m2,0.0001
+[ANALYSIS DATA], 
+Id,P.00021
+group,G01
+duration_min,3
+interval_sec,5
+measurements_N,38
+[STATS], 
+mean_power_mW,5.403
+std_power_mW,0.0258
+[MEASUREMENT DATA], 
+time_sec,power_mW
+0,5.3728
+5,5.389200000000001
+10,5.4557
+15,5.4618
+20,5.435899999999999
+25,5.4338
+30,5.422599999999999
+35,5.4344
+40,5.4227
+45,5.4295
+50,5.437
+55,5.4275
+60,5.402299999999999
+65,5.4025
+70,5.4294
+75,5.4147
+80,5.4121999999999995
+85,5.393700000000001
+90,5.4196
+95,5.4068
+100,5.4083000000000006
+105,5.412
+110,5.394699999999999
+115,5.3869
+120,5.3777
+125,5.3877999999999995
+130,5.3599
+135,5.3796
+140,5.395
+145,5.391100000000001
+150,5.3756
+155,5.3873999999999995
+160,5.3868
+165,5.3832
+170,5.3697
+175,5.364800000000001
+180,5.3713
+185,5.3774
